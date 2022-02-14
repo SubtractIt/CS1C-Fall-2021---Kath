@@ -1,0 +1,3 @@
+﻿  part_a_and_b.cpp
+C:\Users\Adit\source\repos\HW1 - CS1C\HW1 - CS1C\part_a_and_b.cpp(22,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HW1 - CS1C.vcxproj -> C:\Users\Adit\source\repos\HW1 - CS1C\Debug\HW1 - CS1C.exe
