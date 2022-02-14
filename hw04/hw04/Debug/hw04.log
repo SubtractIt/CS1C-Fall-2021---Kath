@@ -1,0 +1,10 @@
+﻿  architect.cpp
+  date.cpp
+  employee.cpp
+  hw04.cpp
+C:\Users\Adit\source\repos\hw04\hw04\hw04.cpp(24,20): warning C4930: 'SoftwareArchitect soft(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\Adit\source\repos\hw04\hw04\hw04.cpp(21,13): warning C4930: 'Programmer prog(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\Adit\source\repos\hw04\hw04\hw04.cpp(16,11): warning C4930: 'Employee emp(void)': prototyped function not called (was a variable definition intended?)
+  programmer.cpp
+  Generating Code...
+  hw04.vcxproj -> C:\Users\Adit\source\repos\hw04\Debug\hw04.exe
